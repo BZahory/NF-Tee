@@ -439,10 +439,10 @@
         "IERC165"
       ]
     },
-    "/Users/bilalzahory/NF-Tee/contracts/NFTEE.sol": {
-      "lastModificationDate": 1647829528999,
-      "contentHash": "35fe7e9aa7a502e5a799e078e2e276cf",
-      "sourceName": "contracts/NFTEE.sol",
+    "/Users/bilalzahory/NF-Tee/contracts/TShirtFactory.sol": {
+      "lastModificationDate": 1648037307036,
+      "contentHash": "3aa73aa189fb9a76f4ed54641e06de71",
+      "sourceName": "contracts/TShirtFactory.sol",
       "solcConfig": {
         "version": "0.8.1",
         "settings": {
@@ -476,7 +476,7 @@
         "^0.8.0"
       ],
       "artifacts": [
-        "NFTEE"
+        "TShirtFactory"
       ]
     }
   }

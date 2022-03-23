@@ -1,8 +1,14 @@
+import React, {useState} from 'react';
 import './App.css';
+import NFTCarousel from './components/NFTCarousel'
+
 
 function App() {
+    const [index, setIndex] = useState(0);
     return (
-        <h1>Hello World</h1>
+        <div>
+        <NFTCarousel index={index} setIndex={setIndex}/>
+        </div>
     );
 }
 
