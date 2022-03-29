@@ -6,7 +6,7 @@ import { ethers } from 'ethers';
 
 
 
-const contractAddress = "0xfCE80acB325de68E3FA3b383B81C8255A6E7F379";
+const contractAddress = "0x582b857D563be6d78B1BDa470B44A14E7B0a5Ec3";
 const abi = contract.abi;
 
 export default function NFTCarousel({index,setIndex}) {
