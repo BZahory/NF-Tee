@@ -8,6 +8,8 @@ import "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol";
 //Ropsten address:
 //0xfCE80acB325de68E3FA3b383B81C8255A6E7F379
 
+//TODO: redeploy on new test network
+
 contract TShirtFactory is ERC721 {
     constructor() ERC721("NFTee", "NFT") {}
 
